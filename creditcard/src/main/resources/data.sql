@@ -13,7 +13,7 @@ insert into creditcards values(679,'HDFC','VISA','HDFCN00123','debitcard','2022-
 insert into transactions values(12345,'succesful',1300.14,'SBIN00123','done','gpay','2022-07-17','pran12');
 insert into transactions values(67890,'not succesful',1800.14,'HDFCN00123','not done','phonepay','2022-07-07','sind12');
 
-insert into admin values('admin');
+/* insert into admin values('admin'); */
 
 insert into User values('admin','admin123','admin');
 insert into User values('pran12','12345','user');
